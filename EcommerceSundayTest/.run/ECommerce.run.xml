@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ECommerce" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.sunday_test.EcommerceSundayTest.EcommerceSundayTestApplication" />
+    <module name="EcommerceSundayTest" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
